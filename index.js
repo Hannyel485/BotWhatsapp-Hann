@@ -1,5 +1,5 @@
  /*
-* ShanBot es una creación de shanduy
+* Hannyel es una creación de shanduy
 * ShanBot no tiene ningun fin de lucro
 * shanduy se reserva todos los derechos de autor
 * © 2021 shanduy, INC.
@@ -235,7 +235,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: 'Tranquil@ estoy procesando 👏\n\nSi usastes la funcion *play asegurate de colocar bien el nombre de la cancion o el link del video 🧐\n\nFlaco los stickergif son de 6 segundos 🤢\n\nby Hannyel',
+				wait: 'Tranquil@ estoy procesando 👏\n\n\ Dame un momento...',
 				success: '✔️ Listo ✔️',
                                 levelon: '❬ ✔ ❭ *Level activado*',
 				leveloff: ' ❬ X ❭  *Level desactivado*',
