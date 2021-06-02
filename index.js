@@ -1,6 +1,6 @@
  /*
 * Hannyel es una creación de shanduy
-* ShanBot no tiene ningun fin de lucro
+* Hannyel no tiene ningun fin de lucro
 * shanduy se reserva todos los derechos de autor
 * © 2021 shanduy, INC.
 
